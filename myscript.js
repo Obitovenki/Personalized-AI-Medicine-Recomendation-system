@@ -3,7 +3,7 @@ searchTop = 0
 searchTags = []
 drugPanelIds = []
 drugPanelDrugs = []
-inputFile = "https://raw.githubusercontent.com/SarthakShetty/SarthakShetty.github.io/master/data/WebMdver2.csv"
+inputFile = "https://raw.githubusercontent.com/Obitovenki/Personalized-AI-Medicine-Recomendation-system/main/data/Dataset.csv?token=GHSAT0AAAAAACQAGEVOFDYELWDAS7VVOCJGZQGXSGQ"
 hideSideEffectsOnMouseOut = false
 hideReviewsOnMouseOut = false
 hideageEffectivenessOnMouseOut = false
